@@ -1,0 +1,19 @@
+{
+    "Order": {
+      "1": {
+        "Titel": "JSON for beginners",
+        "ISBN": "1549578456",
+        "Pris": 9.99
+      },
+      "2": {
+        "Titel": "XML: a beginner’s guide",
+        "ISBN": "0071606262",
+        "Pris": 24.99
+      },
+      "3": {
+        "Titel": "Ansible playbook essentials",
+        "ISBN": "1784398292",
+        "Pris": 15.89
+      }
+    }
+  }

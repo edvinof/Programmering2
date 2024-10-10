@@ -1,0 +1,20 @@
+<ORDER>
+	<BOK>
+		<ID>1</ID>
+		<TITEL>JSON for beginners</TITEL>
+		<ISBN>1549578456</ISBN>
+		<PRIS>9.99</PRIS>
+	</BOK>
+	<BOK>
+		<ID>2</ID>
+		<TITEL>XML: a beginner’s guide</TITEL>
+		<ISBN>0071606262</ISBN>
+		<PRIS>24.99</PRIS>
+	</BOK>
+	<BOK>
+		<ID>3</ID>
+		<TITEL>Ansible playbook essentials</TITEL>
+		<ISBN>1784398292</ISBN>
+		<PRIS>15.89</PRIS>
+	</BOK>
+</ORDER>

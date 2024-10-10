@@ -1,0 +1,25 @@
+landsdelar:
+  Götaland:
+    Skåne:
+      städer:
+        stad1: Malmö
+        stad2: Lund
+    Småland:
+      städer:
+        stad1: Växjö
+        stad2: Jönköping
+  Svealand:
+    Uppland:
+      städer:
+        stad1: Uppsala
+        stad2: Stockholm
+    Västmanland:
+      städer:
+        stad1: Västerås
+  Norrland:
+    Västerbotten:
+      städer:
+        stad1: Umeå
+    Jämtland:
+      städer:
+        stad1: Östersund

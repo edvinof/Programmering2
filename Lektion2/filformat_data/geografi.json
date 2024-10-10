@@ -1,0 +1,43 @@
+{
+  "landsdelar": [
+    {
+      "namn": "Götaland",
+      "landskap": [
+        {
+          "namn": "Skåne",
+          "städer": ["Malmö", "Lund"]
+        },
+        {
+          "namn": "Småland",
+          "städer": ["Växjö", "Jönköping"]
+        }
+      ]
+    },
+    {
+      "namn": "Svealand",
+      "landskap": [
+        {
+          "namn": "Uppland",
+          "städer": ["Uppsala", "Stockholm"]
+        },
+        {
+          "namn": "Västmanland",
+          "städer": ["Västerås"]
+        }
+      ]
+    },
+    {
+      "namn": "Norrland",
+      "landskap": [
+        {
+          "namn": "Västerbotten",
+          "städer": ["Umeå"]
+        },
+        {
+          "namn": "Jämtland",
+          "städer": ["Östersund"]
+        }
+      ]
+    }
+  ]
+}

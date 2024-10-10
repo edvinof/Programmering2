@@ -1,0 +1,29 @@
+<landsdelar>
+  <Götaland>
+    <Skåne>
+      <stad>Malmö</stad>
+      <stad>Lund</stad>
+    </Skåne>
+    <Småland>
+      <stad>Växjö</stad>
+      <stad>Jönköping</stad>
+    </Småland>
+  </Götaland>
+  <Svealand>
+    <Uppland>
+      <stad>Uppsala</stad>
+      <stad>Stockholm</stad>
+    </Uppland>
+    <Västmanland>
+      <stad>Västerås</stad>
+    </Västmanland>
+  </Svealand>
+  <Norrland>
+    <Västerbotten>
+      <stad>Umeå</stad>
+    </Västerbotten>
+    <Jämtland>
+      <stad>Östersund</stad>
+    </Jämtland>
+  </Norrland>
+</landsdelar>
