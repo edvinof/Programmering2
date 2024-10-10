@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Add Car</title>
+</head>
+<body>
+    <h1>Add a New Car</h1>
+    <form method="post" action="/add_car">
+        <label for="license_plate">License Plate:</label><br>
+        <input type="text" id="license_plate" name="license_plate" required><br>
+        <label for="brand">Brand:</label><br>
+        <input type="text" id="brand" name="brand" required><br>
+        <label for="model">Model:</label><br>
+        <input type="text" id="model" name="model" required><br>
+        <label for="year">Year:</label><br>
+        <input type="number" id="year" name="year" required><br>
+        <label for="kilometer">Kilometer:</label><br>
+        <input type="number" id="kilometer" name="kilometer" required><br><br>
+        <input type="submit" value="Add Car">
+    </form>
+</body>
+</html>
